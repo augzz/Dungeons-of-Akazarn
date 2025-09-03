@@ -1,12 +1,12 @@
 # Dungeons-of-Akazarn
-Dungeons of Akazarn is a 2D Unity-based RPG developed as a senior capstone project over the course of a semester. This project was a collaborative effort by a team of four developers, overseen by a professor, to create an engaging game featuring custom pixel art assets. Players journey to the tranquil town of Akazarn, recruiting and equipping a party to battle monsters threatening its peace. The game is available to play on itch.io suing the link in the about section.
+Dungeons of Akazarn is a 2D Unity-based RPG developed as a senior capstone project over the course of a semester. This project was a collaborative effort by a team of four developers, overseen by a professor, to create an engaging game featuring custom pixel art assets. Players journey to the tranquil town of Akazarn, recruiting and equipping a party to battle monsters threatening its peace. The game is available to play on itch.io.
+https://www.youtube.com/watch?v=aVqbQxU6E_Q
 
 ## Goal
 The goal of of this project was to design and develop a fully functional 2D RPG with a focus on custom pixel art assets, diverse gameplay mechanics, a cohesive team development process, and a focus on using proper coding practices. The project aimed to showcase our ability to collaborate on a large codebase, integrate art and programming, and deliver a polished game within a semester. 
 Proper coding practices included but not limited to:  
 - Code style and naming conventions
 - Architecture and design principles
-- Performance optimization
 - Project organization and workflow
 
 ## Contributions
