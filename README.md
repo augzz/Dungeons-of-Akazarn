@@ -17,11 +17,16 @@ As part of a four-person team, I contributed to a large C# codebase in Unity, wi
 - Collaborating closely with teammates to ensure seamless integration of art and code.
 
 ## Skills Learned
-- Team Collaboration: Worked effectively in a team of four, using version control and meetings to manage tasks and deadlines.
-- C# Programming: Gained proficiency in writing and debugging C# scripts for gameplay mechanics, UI, and interactions in Unity.
-- Pixel Art and Animation: Developed skills in creating and animating custom pixel art assets tailored to the game's aesthetic.
-- UI/UX Design: Designed intuitive user interfaces and menus to enhance player experience.
-- Project Management: Learned to prioritize tasks, communicate effectively, and deliver a polished product under the guidance of a professor.
+### Team Collaboration: 
+Worked effectively in a team of four, using version control and meetings to manage tasks and deadlines.
+### C# Programming: 
+Gained proficiency in writing and debugging C# scripts for gameplay mechanics, UI, and interactions in Unity.
+### Pixel Art and Animation: 
+Developed skills in creating and animating custom pixel art assets tailored to the game's aesthetic.
+### UI/UX Design: 
+Designed intuitive user interfaces and menus to enhance player experience.
+### Project Management: 
+Learned to prioritize tasks, communicate effectively, and deliver a polished product under the guidance of a professor.
 
 ## Tools Used
 - Unity: Game engine used for development, leveraging its 2D features for gameplay and rendering.
