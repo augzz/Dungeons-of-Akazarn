@@ -3,7 +3,7 @@ Dungeons of Akazarn is a 2D RPG game developed using Unity as a senior capstone 
 https://www.youtube.com/watch?v=aVqbQxU6E_Q
 
 ## Goal
-The goal of of this project was to design and develop a fully functional 2D RPG with a focus on custom pixel art assets, diverse gameplay mechanics, a cohesive team development process, and a focus on using proper coding practices. The project aimed to showcase our ability to collaborate on a large codebase, integrate art and programming, and deliver a polished game within a semester. 
+The goal of this project was to design and develop a fully functional 2D RPG with a focus on custom pixel art assets, diverse gameplay mechanics, a cohesive team development process, and a focus on using proper coding practices. The project aimed to showcase our ability to collaborate on a large codebase, integrate art and programming, and deliver a polished game within a semester. 
 
 ## Contributions
 As part of a four-person team, I contributed to a large C# codebase in Unity, with responsibilities including:
