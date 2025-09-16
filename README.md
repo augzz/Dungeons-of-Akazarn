@@ -35,6 +35,6 @@ Learned to prioritize tasks, communicate effectively, and deliver a polished pro
 Special thanks to my three teammates and our professor for their guidance and support throughout the project. This capstone experience was a valuable opportunity to apply programming, art, and teamwork skills in a real-world game development context.
 
 ## Screenshots
-![Town Art](DOA_Town_Art.png)
-![Town Shop](DOA_Town_Shop.png)
-![Dungeon](DOA_Dungeon.png)
+![Town Art](images/DOA_Town_Art.png)
+![Town Shop](images/DOA_Town_Shop.png)
+![Dungeon](images/DOA_Dungeon.png)
