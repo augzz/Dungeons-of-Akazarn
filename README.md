@@ -26,15 +26,15 @@ Learned to prioritize tasks, communicate effectively, and deliver a polished pro
 
 ## Tools Used
 - Unity
-  Game engine used for development, leveraging its 2D features for gameplay and rendering.
+Game engine used for development, leveraging its 2D features for gameplay and rendering.
 - C#
-  Primary programming language for scripting game mechanics and interactions.
+Primary programming language for scripting game mechanics and interactions.
 - Plastic SCM
-  Version control system for collaborative code management.
+Version control system for collaborative code management.
 - Aseprite
-  Tool for creating and editing custom pixel art assets and animations.
+Tool for creating and editing custom pixel art assets and animations.
 - Visual Studio
-  IDE for writing and debugging C# code.
+IDE for writing and debugging C# code.
 
 ## Acknowledgments
 Special thanks to my three teammates and our professor for their guidance and support throughout the project. This capstone experience was a valuable opportunity to apply programming, art, and teamwork skills in a real-world game development context.
